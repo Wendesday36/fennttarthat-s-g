@@ -25,11 +25,15 @@
     echo"<li>$harmadikSzint</li>";
     echo"<li>$negyedikSzint</li>";
     echo"</ul>";
-    echo"<tr>";
-    echo"<th>";"A megújuló erőforrások fogyasztása";"</th>";
-    echo"<th>";"A környezet helyzete";"</th>";
-    echo"<th>";"Fenntarthatóság";"</th>";
-    echo"</tr>";
+    $tomb = array("A megújuló erőforrások fogyasztása","
+    több, mint amit a természet újratermelni képes
+    
+    ")
+    /* echo"<tr>";
+    echo"<th>",("A megújuló erőforrások fogyasztása"),"</th>";
+    echo"<th>";("A környezet helyzete");"</th>";
+    echo"<th>";("Fenntarthatóság");"</th>";
+    echo"</tr>"; */
     ?>
 
 </body>
